@@ -1,0 +1,345 @@
+{
+  "ids": {
+    "color": {
+      "light-blue": {
+        "100": {
+          "name": "Gas Giant",
+          "color-name": "Gas Giant",
+          "value": "rgb(151, 226, 247)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(151, 226, 247)",
+          "hex": "#97e2f7",
+          "internal-name": "CB 3",
+          "pmsc": "PMS 291 C",
+          "pmsu": "PMS 544 U",
+          "cmykc": "35, 0, 2, 0",
+          "cmyku": "34, 3, 0, 2"
+        },
+        "200": {
+          "name": "Blue Martini",
+          "color-name": "Blue Martini",
+          "value": "rgb(76, 176, 211)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(76, 176, 211)",
+          "hex": "#4cb0d3",
+          "internal-name": "CB 2",
+          "pmsc": "PMS 2389 C",
+          "pmsu": "PMS 2389 U",
+          "cmykc": "68, 13, 12, 0",
+          "cmyku": "63, 16, 8, 0"
+        },
+
+        "300": {
+          "name": "Vanity",
+          "color-name": "Vanity",
+          "value": "rgb(83, 146, 178)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(83, 146, 178)",
+          "hex": "#5392b2",
+          "internal-name": "CB 1",
+          "pmsc": "PMS 2159 C",
+          "pmsu": "PMS 2149 U",
+          "cmykc": "70, 37, 18, 10",
+          "cmyku": "65, 30, 15, 5"
+        }
+      },
+      "blue": {
+        "100": {
+          "name": "Megaman Helmet",
+          "color-name": "Megaman Helmet",
+          "value": "rgb(0,84,240)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(0,84,240)",
+          "hex": "#0054f0",
+          "internal-name": "BL 1",
+          "pms": "PMS 3005",
+          "cmyk": "100,30,0,0",
+          "ncs": "S 2565-R80B",
+          "ral": "270 40 40 Zauberblau",
+          "tcx": "18-4051 TCX"
+        },
+        "200": {
+          "name": "Bracing Blue",
+          "color-name": "Bracing Blue",
+          "value": "rgb(0, 64, 128)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(0, 64, 128)",
+          "hex": "#004080",
+          "internal-name": "BL 1 Dark",
+          "cmyk": "100,50,0,50"
+        }
+      },
+      "orange": {
+        "100": {
+          "name": "Wiener Schnitzel",
+          "color-name": "Wiener Schnitzel",
+          "value": "rgb(240, 156, 0)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(240, 156, 0)",
+          "hex": "#f09c00",
+          "internal-name": "BL 1 Complement, Deprecated"
+        }
+      },
+      "beige": {
+        "100": {
+          "name": "Doctor",
+          "color-name": "Doctor",
+          "value": "rgb(250,249,247)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(250,249,247)",
+          "hex": "#faf9f7",
+          "internal-name": "BE 5",
+          "pms": "PMS 9223 / 20%",
+          "cmykc": "5, 10, 15, 3 / 20%",
+          "cmyku": "3, 8, 14, 2 / 20%"
+        },
+        "200": {
+          "name": "The Speed Of Light",
+          "color-name": "The Speed Of Light",
+          "value": "rgb(246,243,240)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(246,243,240)",
+          "hex": "#f6f3f0",
+          "internal-name": "BE 4",
+          "pms": "PMS 9223 / 40%",
+          "cmykc": "5, 10, 15, 3 / 40%",
+          "cmyku": "3, 8, 14, 2 / 40%"
+        },
+        "300": {
+          "name": "Valhallan Blizzard",
+          "color-name": "Valhallan Blizzard",
+          "value": "rgb(241,236,232)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(241,236,232)",
+          "hex": "#f1ece8",
+          "internal-name": "BE 3",
+          "pms": "PMS 9223 / 60%",
+          "cmykc": "5, 10, 15, 3 / 60%",
+          "cmyku": "3, 8, 14, 2 / 60%"
+        },
+        "400": {
+          "name": "Desert Storm",
+          "color-name": "Desert Storm",
+          "value": "rgb(237,230,225)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(237,230,225)",
+          "hex": "#ede6e1",
+          "internal-name": "BE 2",
+          "pmsc": "PMS 9223 / 80%",
+          "cmykc": "5, 10, 15, 3 / 80%",
+          "cmyku": "3, 8, 14, 2 / 80%"
+        },
+        "500": {
+          "name": "Stone Harbour",
+          "color-name": "Stone Harbour",
+          "value": "rgb(232,224,217)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(232,224,217)",
+          "hex": "#e8e0d9",
+          "internal-name": "BE 1",
+          "pms": "PMS 9223",
+          "cmykc": "5, 10, 15, 3",
+          "cmyku": "3, 8, 14, 2",
+          "ncs": "1005-Y60R",
+          "ral": "060 85 05 Champagnerosé",
+          "tcx": "12-0000 TCX"
+        }
+      },
+      "pink": {
+        "100": {
+          "name": "Peach Crayon",
+          "color-name": "Peach Crayon",
+          "value": "rgb(255, 201, 166)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(255, 201, 166)",
+          "hex": "#ffc9a6",
+          "internal-name": "CR 3",
+          "pmsc": "PMS 7520 C",
+          "pmsu": "PMS 7520 U",
+          "cmykc": "0, 20, 25, 5",
+          "cmyku": "5, 17, 31, 0"
+        },
+        "200": {
+          "name": "Fresh Salmon",
+          "color-name": "Fresh Salmon",
+          "value": "rgb(255, 133, 105)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(255, 133, 105)",
+          "hex": "#ff8569",
+          "internal-name": "CR 2",
+          "pmsc": "PMS 486 C",
+          "pmsu": "PMS 487 U",
+          "cmykc": "0, 53, 48, 0",
+          "cmyku": "0, 47, 46, 0",
+          "ncs": "S 1050-Y80R",
+          "ral": "030 70 40 Flamingorot",
+          "tcx": "16-1526 TCX"
+        },
+        "300": {
+          "name": "Musk Deer",
+          "color-name": "Musk Deer",
+          "value": "rgb(128, 92, 92)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(128, 92, 92)",
+          "hex": "#805c5c",
+          "internal-name": "CR 1",
+          "pmsc": "PMS 7639 C",
+          "pmsu": "PMS 4995 U",
+          "cmykc": "41, 62, 48, 7",
+          "cmyku": "0, 42, 15, 48",
+          "ncs": "S 5020-R10B",
+          "ral": "360 40 15 Rubingrau",
+          "tcx": "18-1612 TCX"
+        }
+      },
+      "green": {
+        "100": {
+          "name": "Camarone",
+          "color-name": "Camarone",
+          "value": "rgb(33, 115, 49)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(33, 115, 49)",
+          "hex": "#217331",
+          "internal-name": "green"
+        }
+      },
+      "red": {
+        "100": {
+          "name": "Virtual Boy",
+          "color-name": "Virtual Boy",
+          "value": "rgb(187, 50, 12)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(187, 50, 12)",
+          "hex": "#bb320c",
+          "internal-name": "red"
+        }
+      },
+      "brown": {
+        "100": {
+          "name": "Fozzie Bear",
+          "color-name": "Fozzie Bear",
+          "value": "rgb(110,98,94)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(110,98,94)",
+          "hex": "#6e625e",
+          "internal-name": "LB 1",
+          "pms": "PMS 7531",
+          "cmykc": "15, 27, 36, 51",
+          "cmyku": "14, 23, 33, 46",
+          "ncs": "6010-Y30R",
+          "ral": "060 50 10 Sandsteingrau",
+          "tcx": "18-1017 TCX"
+        },
+        "200": {
+          "name": "Black Slug",
+          "color-name": "Black Slug",
+          "value": "rgb(51,30,17)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(51,30,17)",
+          "hex": "#331e11",
+          "internal-name": "BR 1",
+          "pms": "PMS 2322",
+          "cmykc": "32, 72, 99, 81",
+          "cmyku": "25, 70, 70, 80",
+          "ncs": "S 8010-Y50R",
+          "ral": "050 30 10 Obsidianbraun",
+          "tcx": "19-0814 TCX"
+        }
+      },
+      "teal": {
+        "100": {
+          "name": "Spearmint Water",
+          "color-name": "Spearmint Water",
+          "value": "rgb(181, 237, 232)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(181, 237, 232)",
+          "hex": "#b5ede8",
+          "internal-name": "CG 3",
+          "pmsc": "PMS 7457 C",
+          "pmsu": "PMS 5523 U",
+          "cmykc": "25, 0, 13, 0",
+          "cmyku": "20, 0, 12, 0"
+        },
+        "200": {
+          "name": "Tranquil Teal",
+          "color-name": "Tranquil Teal",
+          "value": "rgb(135, 199, 186)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(135, 199, 186)",
+          "hex": "#87c7ba",
+          "internal-name": "CG 2",
+          "pmsc": "PMS 564 C",
+          "pmsu": "PMS 565 U",
+          "cmykc": "53, 0, 32, 0",
+          "cmyku": "42, 0, 27, 0",
+          "ncs": "S 1030-B50G",
+          "ral": "18 80 20 Opalturkis",
+          "tcx": "14-5711 TCX"
+        },
+        "300": {
+          "name": "Little League",
+          "color-name": "Little League",
+          "value": "rgb(107, 153, 148)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(107, 153, 148)",
+          "hex": "#6b9994",
+          "internal-name": "CG 1",
+          "pmsc": "PMS 2211 C",
+          "pmsu": "PMS 5493 U",
+          "cmykc": "63, 25, 35, 5",
+          "cmyku": "47, 6, 20, 20",
+          "ncs": "S 4020-B30G",
+          "ral": "200 60 15 Waidindigo",
+          "tcx": "17-5110 TCX"
+        }
+      },
+      "yellow": {
+        "100": {
+          "name": "Swedish Yellow",
+          "color-name": "Swedish Yellow",
+          "value": "rgb(255, 224, 130)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(255, 224, 130)",
+          "hex": "#ffe082",
+          "internal-name": "CY 3",
+          "pmsc": "PMS 7402 C",
+          "pmsu": "PMS 2001 U",
+          "cmykc": "0, 6, 53, 0",
+          "cmyku": "0, 3, 48, 0"
+        },
+        "200": {
+          "name": "Go Bananas",
+          "color-name": "Go Bananas",
+          "value": "rgb(252, 199, 79)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(252, 199, 79)",
+          "hex": "#fcc74f",
+          "internal-name": "CY 2",
+          "pmsc": "PMS 141 C",
+          "pmsu": "PMS 7403 U",
+          "cmykc": "0, 20, 72, 0",
+          "cmyku": "0, 14, 65, 0",
+          "ncs": "S 1050-Y10R",
+          "ral": "080 80 60 Vollgelb",
+          "tcx": "14-0846 TCX"
+        },
+        "300": {
+          "name": "Apple Cinnamon",
+          "color-name": "Apple Cinnamon",
+          "value": "rgb(176, 135, 89)",
+          "nob": ["system", "category", "variant", "scale"],
+          "rgb": "rgb(176, 135, 89)",
+          "hex": "#b08759",
+          "internal-name": "CY 1",
+          "pmsc": "PMS 2317 C",
+          "pmsu": "PMS 2313 U",
+          "cmykc": "35, 48, 70, 5",
+          "cmyku": "0, 30, 54, 27",
+          "ncs": "S 4030-Y30R",
+          "ral": "060 50 30 Senfbraun",
+          "tcx": "17-1125 TCX"
+        }
+      }
+    }
+  }
+}

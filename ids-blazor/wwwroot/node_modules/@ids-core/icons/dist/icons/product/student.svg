@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+    <g fill="none">
+        <path d="M0 0h32v32H0z" data-name="Rectangle 1916"/>
+        <g stroke="#331e11" stroke-miterlimit="10" stroke-width="1.5" data-name="Student">
+            <path stroke-linecap="square" d="M15.581 18L2 11l13.581-7 13.581 7z" data-name="Path 6396"/>
+            <path d="M5.998 13v10.313C5.998 25.9 10.315 28 15.641 28s9.643-2.1 9.643-4.688V13" data-name="Path 6397"/>
+            <path stroke-linecap="square" d="M29.995 15v4" data-name="Line 1333"/>
+        </g>
+    </g>
+</svg>

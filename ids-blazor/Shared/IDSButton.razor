@@ -1,0 +1,11 @@
+<button @onclick="ButtonClick" class="if button">@buttonText</button>
+
+@code {
+    [Parameter]
+    public string? buttonText { get; set; }
+
+    private void ButtonClick()
+    {
+        Console.WriteLine("ButtonClicked");
+    }
+}

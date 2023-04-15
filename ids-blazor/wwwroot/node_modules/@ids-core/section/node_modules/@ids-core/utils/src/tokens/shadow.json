@@ -1,0 +1,88 @@
+{
+  "ids": {
+    "depth": {
+      "shadow": {
+        "100": {
+          "light": {
+            "nob": ["system", "category", "property", "scale", "mode"],
+            "value": "0 8px 4px -2px rgba(110,98,94, 0.08), 0 8px 8px rgba(110,98,94, 0.12)",
+            "color": "#6e625e",
+            "colorName": "LB 1, LIGHT BROWN",
+            "opacity": "12%",
+            "offset": { "x": 0, "y": "8px" },
+            "blur": "8px"
+          },
+          "dark": {
+            "nob": ["system", "category", "property", "scale", "mode"],
+            "value": "0 8px 4px -2px rgba(51,30,17, 0.08), 0 8px 8px rgba(51,30,17, 0.20)",
+            "color": "#331e11",
+            "colorName": "BR 1, DARK BROWN",
+            "opacity": "20%",
+            "offset": { "x": 0, "y": "8px" },
+            "blur": "8px"
+          }
+        },
+        "200": {
+          "light": {
+            "nob": ["system", "category", "property", "scale", "mode"],
+            "value": "0 8px 4px -2px rgba(110,98,94, 0.08), 0 12px 16px rgba(110,98,94, 0.16)",
+            "color": "#6e625e",
+            "colorName": "LB 1, LIGHT BROWN",
+            "opacity": "16%",
+            "offset": { "x": 0, "y": "12px" },
+            "blur": "16px"
+          },
+          "dark": {
+            "nob": ["system", "category", "property", "scale", "mode"],
+            "value": "0 8px 4px -2px rgba(51,30,17, 0.08), 0 12px 16px rgba(51,30,17, 0.24)",
+            "color": "#331e11",
+            "colorName": "BR 1, DARK BROWN",
+            "opacity": "24%",
+            "offset": { "x": 0, "y": "12px" },
+            "blur": "16px"
+          }
+        },
+        "300": {
+          "light": {
+            "nob": ["system", "category", "property", "scale", "mode"],
+            "value": "0 8px 4px -2px rgba(110,98,94, 0.08), 0 16px 24px rgba(110,98,94, 0.20)",
+            "color": "#6e625e",
+            "colorName": "LB 1, LIGHT BROWN",
+            "opacity": "20%",
+            "offset": { "x": 0, "y": "16px" },
+            "blur": "24px"
+          },
+          "dark": {
+            "nob": ["system", "category", "property", "scale", "mode"],
+            "value": "0 8px 4px -2px rgba(51,30,17, 0.08), 0 16px 24px rgba(51,30,17, 0.28)",
+            "color": "#331e11",
+            "colorName": "BR 1, DARK BROWN",
+            "opacity": "28%",
+            "offset": { "x": 0, "y": "16px" },
+            "blur": "24px"
+          }
+        },
+        "400": {
+          "light": {
+            "nob": ["system", "category", "property", "scale", "mode"],
+            "value": "0 8px 4px -2px rgba(110,98,94, 0.08), 0 20px 32px rgba(110,98,94, 0.24)",
+            "color": "#6e625e",
+            "colorName": "LB 1, LIGHT BROWN",
+            "opacity": "24%",
+            "offset": { "x": 0, "y": "20px" },
+            "blur": "32px"
+          },
+          "dark": {
+            "nob": ["system", "category", "property", "scale", "mode"],
+            "value": "0 8px 4px -2px rgba(51,30,17, 0.08), 0 20px 32px rgba(51,30,17, 0.32)",
+            "color": "#331e11",
+            "colorName": "BR 1, DARK BROWN",
+            "opacity": "32%",
+            "offset": { "x": 0, "y": "20px" },
+            "blur": "32px"
+          }
+        }
+      }
+    }
+  }
+}
